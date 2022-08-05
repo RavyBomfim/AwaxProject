@@ -1,4 +1,4 @@
-/*-------------------- CSS Geral ------------------*/
+/*-------------------- General CSS ------------------*/
 
 *{
     margin: 0;
@@ -12,7 +12,7 @@ body {
     overflow-x: hidden;
 }
 
-/*-------------------- CSS de Interface ------------------*/
+/*-------------------- Interface CSS ------------------*/
 
 header {
     height: 100px;
@@ -195,7 +195,7 @@ header {
 }
 
 
-/*------------------ CSS de áreas específicas ------------------*/
+/*------------------ CSS for specific areas ------------------*/
 
 .section-aboutus {
     display: flex;
