@@ -31,11 +31,8 @@ header {
 }
 
 .logo {
-    width: 84px;
-}
-
-.logo img {
-    margin-top: 5px;
+    margin-top: 1px;
+    width: 50px;
 }
 
 .menu-opener {
